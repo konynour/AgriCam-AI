@@ -1,0 +1,28 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+
+# === Virtual environment ===
+env/
+venv/
+ENV/
+*.egg-info/
+
+# === Jupyter Notebooks Checkpoints ===
+.ipynb_checkpoints
+
+# === Images & Data Files ===
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.csv
+*.log
+
+# === VS Code Settings (if using) ===
+.vscode/
+
+# === OS & System Files ===
+.DS_Store
+Thumbs.db
